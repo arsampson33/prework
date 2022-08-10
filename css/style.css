@@ -1,0 +1,75 @@
+body{
+    background-color: #D2D944;
+    color:black;
+    font-family: 'Helvetica'
+}
+.header{
+    text-align: center;
+ 
+
+}
+h1{
+    font-size: 50px;
+}
+.main{
+    text-align: center;
+
+}
+#h3{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+#info{
+    text-align:center;
+}
+
+ul{
+    font-style: italic;
+    list-style-position: inside;
+    padding-right: 3em;
+    
+}
+form{
+    text-align: center;
+    
+}
+#feedback{
+    height: 5em;
+    width: 30em;
+    position: relative;
+    left: 40px;
+}
+#button{
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    left: 40px;
+}
+nav{
+    word-spacing: 1em;
+}
+table{
+    margin-left: 17em;
+    margin-top: 2em;
+    border: #59562C;
+    border-style: solid;
+    border-radius: 10em;
+    margin-bottom: 2em;
+    position: relative;
+    left: 40px;
+
+}
+.para{
+    font-weight: bold;
+}
+#pic{
+    margin-left: 1em;
+}
+#button{
+    border-radius: 2em;
+}
+#button:hover{
+    background-color:green;
+}
